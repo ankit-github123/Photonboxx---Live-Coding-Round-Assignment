@@ -1,4 +1,4 @@
-
+#Write a program which takes n as input and prints nth fibonacci number
 n = int(input());
 
 num1 = 0
